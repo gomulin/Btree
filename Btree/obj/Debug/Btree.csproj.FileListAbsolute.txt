@@ -1,0 +1,7 @@
+C:\Users\ната\Desktop\дом\CAOD\Btree\Btree\obj\Debug\Btree.csprojAssemblyReference.cache
+C:\Users\ната\Desktop\дом\CAOD\Btree\Btree\obj\Debug\Btree.csproj.CoreCompileInputs.cache
+C:\Users\ната\Desktop\дом\CAOD\Btree\Btree\bin\Debug\Btree.exe.config
+C:\Users\ната\Desktop\дом\CAOD\Btree\Btree\bin\Debug\Btree.exe
+C:\Users\ната\Desktop\дом\CAOD\Btree\Btree\bin\Debug\Btree.pdb
+C:\Users\ната\Desktop\дом\CAOD\Btree\Btree\obj\Debug\Btree.exe
+C:\Users\ната\Desktop\дом\CAOD\Btree\Btree\obj\Debug\Btree.pdb
